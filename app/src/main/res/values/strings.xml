@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AstonIntensive3</string>
+    <string name="main_activity_flags_string">Flags</string>
+    <string name="flags_flag_of_austria_string">Flag of Austria</string>
+    <string name="flags_flag_of_poland_string">Flag of Poland</string>
+    <string name="flags_flag_of_italy_string">Flag of Italy</string>
+    <string name="flags_flag_of_colombia_string">Flag of Colombia</string>
+    <string name="flags_flag_of_madagascar_string">Flag of Madagascar</string>
+    <string name="flags_flag_of_thailand_string">Flag of Thailand</string>
+    <string name="flags_flag_of_denmark_string">Flag of Denmark</string>
+    <string name="flags_flag_of_switzerland_string">Flag of Switzerland</string>
+    <string name="url_string_hint">http://</string>
+    <string name="main_activity_image_load_string">Image load</string>
+    <string name="challenge_button_load_string">Load</string>
+    <string name="main_activity_challenge_string">Challenge</string>
+    <string name="image_view_description">Loaded Image</string>
+    <string name="loading_string">Loading...</string>
+    <string name="image_load_error_string">Image is not loaded</string>
+    <string name="url_is_not_correct_string">URL is not correct</string>
+    <string name="picasso_exception_message">\"Current exception: %s\"</string>
+</resources>

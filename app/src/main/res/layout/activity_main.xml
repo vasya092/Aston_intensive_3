@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/flags_button"
+        android:layout_width="wrap_content"
+        android:text="@string/main_activity_flags_string"
+        style="@style/ButtonStyle"
+        android:layout_height="wrap_content"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/image_load_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/ButtonStyle"
+        android:text="@string/main_activity_image_load_string"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+    android:id="@+id/challenge_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="@style/ButtonStyle"
+    android:text="@string/main_activity_challenge_string"
+    />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

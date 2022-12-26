@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/flags_activity_background"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingHorizontal="@dimen/flags_activity_horizontal_padding"
+        android:paddingVertical="@dimen/flags_activity_vertical_padding"
+        tools:context=".FlagsActivity">
+
+        <include layout="@layout/layout_flag_austria" />
+
+        <include layout="@layout/layout_flag_poland" />
+
+        <include layout="@layout/layout_flag_italy" />
+
+        <include layout="@layout/layout_flag_columbian" />
+
+        <include layout="@layout/layout_flag_madagascar" />
+
+        <include layout="@layout/layout_flag_thailand" />
+
+        <include layout="@layout/layout_flag_denmark" />
+
+        <include layout="@layout/layout_flag_switzerland" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</ScrollView>

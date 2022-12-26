@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="flags_flag_line_height">60dp</dimen>
+    <dimen name="flags_title_paddingVertical">20dp</dimen>
+    <dimen name="flags_flag_big_line_height">90dp</dimen>
+    <dimen name="flags_flag_height">180dp</dimen>
+    <dimen name="flags_activity_horizontal_padding">60dp</dimen>
+    <dimen name="flags_activity_vertical_padding">30dp</dimen>
+    <dimen name="activity_image_loader_padding">10dp</dimen>
+    <dimen name="flag_with">340dp</dimen>
+    <dimen name="flags_flag_top_margin">60dp</dimen>
+</resources>
